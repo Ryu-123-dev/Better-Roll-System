@@ -28,7 +28,7 @@ The standarad /roll command people know will show this!
 Now all your player will be informed of the commands!
 
 ## How to customize it
-1st: Add the addon to your server [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2960389055]content[/url]
+1st: Add the addon to your server [content](https://steamcommunity.com/sharedfiles/filedetails/?id=2960389055)
 
 2nd: Download this and add it to your server.
 
